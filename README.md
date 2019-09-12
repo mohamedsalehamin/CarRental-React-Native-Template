@@ -2,9 +2,9 @@
 based on the following sketch desgin <a href="https://www.sketchappsources.com/free-source/3869-car-rental-service-app-sketch-freebie-resource.html">Car Rental Service App Sketch Resource</a>
 
 <h2>Demo</h2>
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=https://youtu.be/X1qxrqH8YPg
-" target="_blank"><img src="http://img.youtube.com/vi/https://youtu.be/X1qxrqH8YPg/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=X1qxrqH8YPg
+" target="_blank"><img src="http://img.youtube.com/vi/X1qxrqH8YPg/0.jpg" 
+alt="CarRental React Native Template Demo" width="240" height="180" border="10" /></a>
 
 <h2>TO DO</h2>
 <ul>
