@@ -1,0 +1,55 @@
+{
+  "name": "carRental",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "react-native start",
+    "test": "jest",
+    "lint": "eslint ."
+  },
+  "rnpm": {
+    "assets": [
+      "./assets/fonts/"
+    ]
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.20",
+    "@fortawesome/free-solid-svg-icons": "^5.10.0",
+    "@fortawesome/react-native-fontawesome": "^0.1.0",
+    "@react-native-community/async-storage": "^1.6.1",
+    "lottie-ios": "3.0.3",
+    "lottie-react-native": "^3.1.0",
+    "native-base": "^2.13.4",
+    "react": "16.8.6",
+    "react-native": "0.60.4",
+    "react-native-app-intro-slider": "^3.0.0",
+    "react-native-gesture-handler": "^1.3.0",
+    "react-native-image-zoom-viewer": "^2.2.26",
+    "react-native-iphone-x-helper": "^1.2.1",
+    "react-native-linear-gradient": "^2.5.6",
+    "react-native-maps": "^0.25.0",
+    "react-native-reanimated": "^1.1.0",
+    "react-native-scrollable-tab-view": "^0.10.0",
+    "react-native-slider-custom": "https://github.com/emmanuellmota/react-native-slider",
+    "react-native-snap-carousel": "^3.8.0",
+    "react-native-svg": "^9.5.3",
+    "react-native-swiper": "^1.5.14",
+    "react-native-tab-view": "^2.10.0",
+    "react-native-vector-icons": "^6.6.0",
+    "react-navigation": "^3.11.1",
+    "react-navigation-slide-from-right-transition": "^1.0.4"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.5.5",
+    "@babel/runtime": "^7.5.5",
+    "@react-native-community/eslint-config": "^0.0.5",
+    "babel-jest": "^24.8.0",
+    "eslint": "^6.1.0",
+    "jest": "^24.8.0",
+    "metro-react-native-babel-preset": "^0.55.0",
+    "react-test-renderer": "16.8.6"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}
